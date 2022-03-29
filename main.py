@@ -3,7 +3,7 @@
 from flask import Flask
 
 server = Flask('COVID Dashboard')
-
+#lol
 @server.route('/')
 
 def index():
